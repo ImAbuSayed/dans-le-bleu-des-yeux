@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dans-le-bleu-des-yeux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dans Le Bleu Des Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-le-bleu-des-yeux/) |
+| **Get License** | [Request Licensing for Dans Le Bleu Des Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-le-bleu-des-yeux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans le bleu de tes yeux, je me perds ce soir,
+> Midnight driving, on laisse la ville dans le noir,
+> Ton parfum sur ma veste, c'est l'ivresse du moment,
+> Je te veux tout près, you know I want it, vraiment.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
