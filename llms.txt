@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dans-le-bleu-des-yeux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dans Le Bleu Des Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-le-bleu-des-yeux/) |
+| **Get License** | [License this song: Dans Le Bleu Des Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-le-bleu-des-yeux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4390)
 
 ---
 
